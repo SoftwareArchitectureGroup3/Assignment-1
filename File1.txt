@@ -1,0 +1,4 @@
+Apple1 : $2.30
+Apple2 :$3.00
+Banana1 :$1.25
+Banana2 : $2.15
