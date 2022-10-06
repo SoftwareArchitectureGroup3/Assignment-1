@@ -3,7 +3,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Banana_1 implements Banana{
-
+    
+    //The first variant Banana_1 implements the Banana interface 
+    //The setBananaPrice() method is overridden and the price of Banana 1 is stored
     @Override
     public void setBananaPrice() {
         String line="";
