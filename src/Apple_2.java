@@ -3,6 +3,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Apple_2 implements Apple{
+    
+    //The second variant Apple_2 implements the Apple interface 
+    //The setApplePrice() method is overridden and the price of Apple 2 is stored
 
 
     @Override
