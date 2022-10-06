@@ -1,6 +1,15 @@
+/*
+    Assignment-1
+*/
+
 import javax.sound.midi.Soundbank;
 import java.util.ArrayList;
 import java.util.Scanner;
+/*
+    -The factory class is responsible for creating all the objects and the client i.e the test class is independent.
+    -If we want to add more products we don't have to make any changes to the test class or the client
+    -Rather the abstract GroceryProductFactory and Factory will take care of the changes
+*/
 
 public class Test {
     public static void main(String[] args) {
